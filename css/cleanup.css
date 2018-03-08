@@ -7,10 +7,12 @@ div#wall #tag-2 {
   display: none;
 }
 
-div#wall div#tag-3.slick {
+div#wall #tag-3.wicked {
   display: none;
 }
 
 #wall .parent #tag-4 {
   display: none;
 }
+
+div#wall .parent #tag-5.slick
